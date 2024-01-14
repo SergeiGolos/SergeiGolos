@@ -14,18 +14,18 @@ Now that you are here, let me grab your coat, take the load off and put up your 
 
 ## Work History
 
-  Travelers - (Sr. Software Engineer (Product Owner))  
+  **Travelers** - Sr. Software Engineer (Product Owner)
 
-  Travelers - (Sr. Software Engineer )  
+  **Travelers** - Sr. Software Engineer 
 
-  Change Healthcare - (Sr. Software Engineer (Services Delivery))  
+  **Change Healthcare** - Sr. Software Engineer (Services Delivery)
 
-  Change Healthcare - (Sr. Software Engineer (Product))  
+  **Change Healthcare** - Sr. Software Engineer (Product)
 
-  McKesson - (Sr. Software Engineer (Services Delivery))  
+  **McKesson** - Sr. Software Engineer (Services Delivery)
 
-  Korchek Technologies - (Software Engineer)  
+  **Korchek Technologies** - Software Engineer
 
-  Cosential - (Software Engineer)  
+  **Cosential** - Software Engineer
 
-  Abbott Jewelry Systems - (Jr. Software Engineer)  
+  **Abbott Jewelry Systems** - Jr. Software Engineer
