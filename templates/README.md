@@ -13,7 +13,8 @@ Now that you are here, let me grab your coat, take the load off and put up your 
 
 
 ## Work History
-|| Company || Position || Start Date || End Date ||<%for (var i = 0; i < work.length; i++) {    %><%
+| Company | Position | Start Date | End Date |
+| :---:   | :---: | :---: | :---: |<%for (var i = 0; i < work.length; i++) {    %><%
   var job = work[i]
       , company = job.company
       , position = job.position
