@@ -13,7 +13,8 @@ Now that you are here, let me grab your coat, take the load off and put up your 
 
 
 ## Work History
-|| Company || Position || Start Date || End Date ||
+| Company | Position | Start Date | End Date |
+| :---:   | :---: | :---: | :---: |
 | Travelers | Sr. Software Engineer (Product Owner) | | 2023-08-15 |  |
 | Travelers | Sr. Software Engineer  | | 2022-03-15 |  |
 | Change Healthcare | Sr. Software Engineer (Services Delivery) | | 2018-01-15 | 2022-03-15 |
