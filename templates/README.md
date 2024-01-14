@@ -16,5 +16,5 @@ Now that you are here, let me grab your coat, take the load off and put up your 
 | Company | Position | Start Date | End Date | Tags |
 | :---:   | :---: | :---: | :---: | :---: |<%for (var i = 0; i < work.length; i++) {    %>
 <%var job = work[i] 
-  , tags = (job.tags|| []).map(function(t) { return "`" + t + "`"}).join(", ")
-%>| <%= job.company %> | <%= job.position %> | <%= job.startDate %> | <%= job.endDate %> | <%= tags %> |<%}-%>
+  , tags = (job.tags|| []).map(function(t) { return "`" + t + "`"}).join("<br /> ")
+%>| <%= job.company %> | <%= job.position %> | <%= job.startDate %> | <%= job.endDate %> | <%- tags %> |<%}-%>
