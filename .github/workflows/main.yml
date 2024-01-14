@@ -1,7 +1,5 @@
 name: Readme Template
 on:
-  schedule:
-    - cron: '0 */2 * * *' # every 2 hours
   push:
     branches: [ main ]
 jobs:
@@ -11,12 +9,10 @@ jobs:
     - uses: actions/checkout@v2
       with:
         fetch-depth: 0
+    - name: Update NPM dependencies      
+      run: "npm install"
     - name: Generate README.md
-      uses: probablykasper/readme-template-action@v1
-      with:
-        token: ${{ secrets.README_TEMPLATE_TOKEN }}
-        template: TEMPLATE.md
-        output: README.md
+      run: npx ejs-cli --base-dir "templates" --file "README.md"  --options resume.json --out "./"
     - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then

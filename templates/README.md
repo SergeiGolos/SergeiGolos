@@ -2,11 +2,7 @@
 
 | ⭐️Stars   | 📦Repo    | 📚Description |
 | --------- | ----------- | -------------- |
-| 5 | [SergeiGolos/Angular](https://github.com/SergeiGolos/Angular) | Work with AngularJS |
-| 1 | [SergeiGolos/QuickDSL](https://github.com/SergeiGolos/QuickDSL) | null |
-| 1 | [SergeiGolos/ComicViewer](https://github.com/SergeiGolos/ComicViewer) | null |
 
-<!--
 **SergeiGolos/SergeiGolos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,6 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-Member since: March 10th 2011
+Member since: {{ SIGNUP_DATE }}
