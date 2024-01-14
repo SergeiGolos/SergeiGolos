@@ -1,9 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
-| ⭐️Stars   | 📦Repo    | 📚Description |
-| --------- | ----------- | -------------- |
+- Check out the CV page [https://SergeiGolos.github.io/](https://SergeiGolos.github.io/)
+- Check out my ramblings about software on the [https://bitcobblers.com](https://bitcobblers.com) site.
 
-**SergeiGolos/SergeiGolos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
