@@ -21,4 +21,4 @@ Now that you are here, let me grab your coat, take the load off and put up your 
       , start = job.startDate
       , end = job.endDate || ""
     %>
-| <%= company %> | <%= position %> | | <%= start %> | <%= end %> |<%}-%>
+| <%= company %> | <%= position %> | <%= start %> | <%= end %> |<%}-%>
