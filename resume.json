@@ -63,7 +63,8 @@
         "Created a high level view that tracks the progress of intgration work and their promotion across the many levels enviroments",
         "Organized the work effort for the different integration types into oranized and repeatble units of work.",
         "Converted a two week per intergation coding process into a collection of reusable components that reduced the effort to configuration."
-      ]
+      ],
+      "tags": ["Project Manegement", "Team Leadership", "Software Engineering"]
     },
     {
       "company": "Travelers",
@@ -75,7 +76,8 @@
         "Refactored an existing collection of angular components with a pattern of copy/pasting into generic components enabling the existing functionality with about 40% of the original code.",
         "Created a domain specific language to describe the behaviors of forms that the teams created as part of day to day work.",
         "Explored pathways to improve the deployment story as the company wants to shift to cloud deployment."
-      ]
+      ],
+      "tags": [ "Team Leadership", "Software Engineering"]
     },
     {
       "company": "Change Healthcare",
@@ -91,7 +93,8 @@
         "Designed and developed a bot that handled CI/CD automation driven by the Jira business workflow for customer release delivery.", 
         "Implemented sanity checks and systems validity testing for release and deployments completed by automation.",
         "Pushed to drive the team to better coding standards with code review, pair-programming and brown-bag sessions."        
-      ]
+      ],
+      "tags": [ "Team Leadership", "Software Engineering"]
     },
     {
       "company": "Change Healthcare",
@@ -105,7 +108,8 @@
         "Resolved long standing services issues with updates for service packs, finally allowing a single service pack to upgrade any old version of our product.",
         "Proposed and implemented improvements to the development, building and deployment of hotfix packages, streamlining the process from a complicated four-part configuration process into a single \"source of truth\" layout file.",
         "Worked as an intermediary between the production team and my old services team to create smoother product handoff with fewer breaking changes for process developed by services team."
-      ]
+      ],
+      "tags": [ "Software Engineering" ]
     },
     {
       "company": "McKesson",
@@ -118,7 +122,8 @@
         "Developed a deployment strategy for customer-centric product overrides. Abstracted the complexity of WIX installer MSI behind a business problem-oriented Domain Specific Language (DSL). Automated the build process, leading to reduced build times and decreased user packaging errors.",
         "Oversaw design on several in-house, web-based software tools. In the process, reduced duplication efforts between tools by extracting core shared elements into a supporting McKesson-branded UX framework.",
         "Took charge of developer growth effort with regular \"brown bag\" sessions and knowledge transfer on different topics of interest."
-      ]
+      ],
+      "tags": [ "Software Engineering" ]
     },
     {
       "company": "Korchek Technologies",
@@ -131,7 +136,7 @@
         "Worked on development of new products, including CareChek 2 & 3 and Korchek Report System.",
         "Pioneering new web based product, Web Unit Archive, which leveraged client side data binding frameworks to provide a thick client user experience in a web browser.",
         "Involved in data conversion and automation scripts.  Creating conversion mappers for legacy binary data in efforts archive customer deprecated applications."
-      ]
+      ]      
     },
     {
       "company": "Cosential",
