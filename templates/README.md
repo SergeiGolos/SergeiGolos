@@ -2,24 +2,13 @@
 
 Now that you are here, let me grab your coat, take the load off and put up your feet.  We are all here for code.
 
-- Check out the CV page [https://SergeiGolos.github.io/](https://SergeiGolos.github.io/)
-- Check out my ramblings about software on the [https://bitcobblers.com](bitcobblers.com) site.
+- 🔭 Check out [https://SergeiGolos.github.io/](https://SergeiGolos.github.io/) for my professional CV.
+- 🤔 My ramblings about software can be found here: [https://bitcobblers.com](bitcobblers.com).
+- 💬 Ask me about [ZeUnit](https://github.com/bitcobblers/ZeUnit) the prototype functional unit testing framework.
+- 📫 How to reach me: [serge@bitcobblers.com](mailto:serge@bitcobblers.com)
 
 ## Languages
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-Here are some ideas to get you started:
-<details>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-</details>
-Member since: {{ SIGNUP_DATE }}
+- ⚡ Fun fact: ????
