@@ -1,7 +1,9 @@
 ## Hi there 👋
 
+Now that you are here, let me grab your coat, take the load off and put up your feet.  We are all here for code.
+
 - Check out the CV page [https://SergeiGolos.github.io/](https://SergeiGolos.github.io/)
-- Check out my ramblings about software on the [https://bitcobblers.com](https://bitcobblers.com) site.
+- Check out my ramblings about software on the [https://bitcobblers.com](bitcobblers.com) site.
 
 ## Languages
 
@@ -9,7 +11,6 @@
 
 Here are some ideas to get you started:
 <details>
-    <sumamry>ClickMe</summary>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
