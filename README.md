@@ -13,19 +13,12 @@ Now that you are here, let me grab your coat, take the load off and put up your 
 
 
 ## Work History
-
-  **Travelers** - Sr. Software Engineer (Product Owner)
-
-  **Travelers** - Sr. Software Engineer 
-
-  **Change Healthcare** - Sr. Software Engineer (Services Delivery)
-
-  **Change Healthcare** - Sr. Software Engineer (Product)
-
-  **McKesson** - Sr. Software Engineer (Services Delivery)
-
-  **Korchek Technologies** - Software Engineer
-
-  **Cosential** - Software Engineer
-
-  **Abbott Jewelry Systems** - Jr. Software Engineer
+|| Company || Position || Start Date || End Date ||
+| Travelers | Sr. Software Engineer (Product Owner) | | 2023-08-15 |  |
+| Travelers | Sr. Software Engineer  | | 2022-03-15 |  |
+| Change Healthcare | Sr. Software Engineer (Services Delivery) | | 2018-01-15 | 2022-03-15 |
+| Change Healthcare | Sr. Software Engineer (Product) | | 2017-01-15 | 2018-01-15 |
+| McKesson | Sr. Software Engineer (Services Delivery) | | 2011-09-15 | 2017-01-15 |
+| Korchek Technologies | Software Engineer | | 2007-05-01 | 2011-09-15 |
+| Cosential | Software Engineer | | 2006-04-01 | 2007-05-01 |
+| Abbott Jewelry Systems | Jr. Software Engineer | | 2004-10-01 | 2006-04-01 |
