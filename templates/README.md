@@ -10,11 +10,3 @@ Now that you are here, let me grab your coat, take the load off and put up your 
 ## Technologies
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
-
-## Professional History
-| Company | Position | Start Date | End Date | Tags |
-| :---:   | :---: | :---: | :---: | :---: |<%for (var i = 0; i < work.length; i++) {    %>
-<%var job = work[i] 
-  , tags = (job.tags|| []).map(function(t) { return "`" + t + "`"}).join("<br /> ")
-%>| <%= job.company %> | <%= job.position %> | <%= job.startDate %> | <%= job.endDate %> | <%- tags %> |<%}-%>
