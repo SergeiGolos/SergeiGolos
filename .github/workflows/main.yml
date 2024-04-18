@@ -15,7 +15,7 @@ jobs:
     - name: Download Template
       working-directory: ./templates 
       run: | 
-        curl -H 'Authorization: token ${{ secrets.READMETOKEN }}'  -H 'Accept: application/vnd.github.v3.raw'  -O  -L https://api.github.com/repos/SergeiGolos/sergeigolos.github.io/blob/main/template/README.md
+        curl -H 'Authorization: token ${{ secrets.READMETOKEN }}'  -H 'Accept: application/vnd.github.v3.raw'  -O  -L https://raw.githubusercontent.com/SergeiGolos/sergeigolos.github.io/fix-work-experiance-update-lyric/template/README.md
     - name: Generate README.md
       run: npx ejs-cli --base-dir "templates" --file "README.md"  --options resume.json --out "./"
     - name: Update README.md      
