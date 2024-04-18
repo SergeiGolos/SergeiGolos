@@ -12,9 +12,13 @@ jobs:
         fetch-depth: 0
     - name: Update NPM dependencies      
       run: "npm install"
+    - name: Download Template
+      working-directory: ./templates 
+      run: | 
+        curl -H 'Authorization: token ${{ secrets.READMETOKEN }}'  -H 'Accept: application/vnd.github.v3.raw'  -O  -L https://api.github.com/repos/SergeiGolos/sergeigolos.github.io/blob/main/template/README.md
     - name: Generate README.md
       run: npx ejs-cli --base-dir "templates" --file "README.md"  --options resume.json --out "./"
-    - name: Update README.md
+    - name: Update README.md      
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
           git config user.name "GitHub Action"
